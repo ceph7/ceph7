@@ -70,7 +70,7 @@ Application météo Android développée en Kotlin / Jetpack Compose, en équipe
 ## 📫 Me contacter
 
 - GitHub : [Cephas](#)
-- Email : seraphcephas@gmail.com
+- Email : seraphcephas@gmail.com - seraphcephas@outlook.fr
 - Porfolio: https://portfolio-v1-0-nu.vercel.app
 - Linkedin: https://www.linkedin.com/in/séraph-cephas-adzimah-7b1627328/
 
