@@ -1,6 +1,6 @@
 # Bonjour, je suis Seraph Cephas ADZIMAH
 
-🎓 Étudiant en 2ème année Informatique au **Collège de Paris Supérieur**
+🎓 Étudiant en troisième année de génie logiciel à **IPNET Institute of Technology**
 💻 Formation généraliste : développement web, réseaux, systèmes, ingénierie de données
 
 ---
